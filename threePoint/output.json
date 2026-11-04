@@ -1,0 +1,13 @@
+{
+  "schema_version": 3,
+  "status": "calibrated",
+  "calibration_type": "three_pose_fixed_point_tcp",
+  "length_unit": "mm",
+  "input_frame": "robot_base_flange",
+  "tcp_offset_flange_mm": [
+    77.46260214856015,
+    -26.264151336882634,
+    220.2961887090614
+  ],
+  "tool_orientation": null
+}
